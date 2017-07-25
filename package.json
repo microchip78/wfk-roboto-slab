@@ -1,0 +1,27 @@
+{
+  "name": "wfk-roboto-slab",
+  "version": "1.0.0",
+  "description": "WebFont Kit for Google Fonts - Roboto Slab Family",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microchip78/wfk-roboto-slab.git"
+  },
+  "keywords": [
+    "WebFont",
+    "Kit",
+    "Google",
+    "Fonts",
+    "Roboto",
+    "Roboto-Slab"
+  ],
+  "author": "microchip78",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/microchip78/wfk-roboto-slab-family/issues"
+  },
+  "homepage": "https://github.com/microchip78/wfk-roboto-slab-family#readme"
+}

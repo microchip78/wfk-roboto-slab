@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'roboto-slab-bold';
+    src: url('fonts/roboto-slab-bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'roboto-slab-light';
+    src: url('fonts/roboto-slab-light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'roboto-slab-regular';
+    src: url('fonts/roboto-slab-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'roboto-slab-thin';
+    src: url('fonts/roboto-slab-thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
